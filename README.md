@@ -2,7 +2,7 @@
 
 Eae professor firme? 
 
-o projeto é um exemplo que ilustra a hierarquia de funcionários em uma empresa e como classes. 
+o projeto é um exemplo que ilustra a hierarquia de funcionários em uma empresa. 
 
 Ele define três classes principais: Funcionario, Gerente e Diretor, que são usadas para representar funcionários dentro da empresa.
 
