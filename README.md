@@ -1,6 +1,6 @@
 # projetoEmpresa
 
-Eae professor firme? 
+Boa noite, professor. Segue a explicação de como funciona o projeto desenvolvido:
 
 O projeto é um exemplo que ilustra a hierarquia de funcionários. 
 
